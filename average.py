@@ -1,0 +1,10 @@
+tree1=100
+tree2=90
+tree3=86
+tree4=67
+tree5=99
+tree6=74
+sum=tree1+tree2+tree3+tree4+tree5+tree6
+print(sum)
+average=sum/6
+print(average)
